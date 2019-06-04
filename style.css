@@ -1,0 +1,25 @@
+.top{
+	height: 100px;
+}
+.main{
+	height: 500px;
+}
+body{
+	background-image: url(banner.jpg);
+	background-size: 100% 40%
+}
+.h-50{
+	height: 50px;
+}
+.h-400{
+	height: 400px;
+}
+.text{
+	font-size: 13px;
+}
+.text2{
+	font-size: 15px
+}
+.top1{
+	height: 50px;
+}
